@@ -27,7 +27,7 @@
 
 <h2 align="center">🔗 Link da página</h2>
 <p>Logo abaixo temos o link da página para visualização e testes:</p>
-👉 <a href="#" target="_blank">Landing Page - Agência</a><br><br>
+👉 <a href="https://oseiasweb.github.io/agencia-abc/" target="_blank">Landing Page - Agência</a><br><br>
 
 <h2 align="center">🏆 Status Projeto</h2>
 <p align="center">
